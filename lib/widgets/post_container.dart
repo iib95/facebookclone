@@ -40,7 +40,7 @@ class PostContainer extends StatelessWidget {
           post.imageUrl != null
               ? Padding(
                   padding: const EdgeInsets.symmetric(vertical: 8.0),
-                  child: CachedNetworkImage(imageUrl: post.imageUrl),
+                  child: CachedNetworkImage(imageUrl: post.imageUrl!),
                 )
               : const SizedBox.shrink(),
           Padding(
