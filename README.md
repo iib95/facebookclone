@@ -1,6 +1,9 @@
 # uts_project
 
-Ini adalah project UTS Pemograman Mobile semester 7.  
+Ini adalah project UTS Pemograman Mobile semester 7. 
+
+Nama : Hasan Ibrohim
+NIM  : 211240001161
 
 Project ini berupa klon user interface dari halaman home Facebook  
 
