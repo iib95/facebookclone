@@ -1,16 +1,16 @@
 import 'package:uts_project/models/models.dart';
 
 const User currentUser = User(
-  name: 'Irgi Zanuar',
+  name: 'Hasan Ibrohim',
   imageUrl:
-      'https://images.unsplash.com/photo-1587300003388-59208cc962cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
+      'https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-1/309655534_5278374665604761_8055927392869877385_n.jpg?stp=dst-jpg_s200x200&_nc_cat=108&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeGDu7lEfjPhMxwkqk6LDEQiq1fPeCgRpb2rV894KBGlvR21m3e1sw6i-cl-2mmVN474iQiK3PUOH8SpT83uAdnk&_nc_ohc=JGsL6Kt_ClIQ7kNvgGTGyI0&_nc_zt=24&_nc_ht=scontent-cgk1-2.xx&_nc_gid=AUz7O3BBjAtgczUcZ7UdXki&oh=00_AYAZFDGubYnlnuOhQrzfrq5K88QT61QYuS7h3KayEbGuPg&oe=67262C87',
 );
 
 final List<User> onlineUsers = [
   const User(
-    name: 'David Brooks',
+    name: 'Mahir Arriyadl',
     imageUrl:
-        'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+        'https://scontent-cgk1-1.xx.fbcdn.net/v/t39.30808-6/452901536_427582460241461_8645050212630329274_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHhk27yRFEjMXyRuqhIBSjS5xVJxDQutujnFUnENC626ECDS0F4igTgrg1lpDssDLoW0O94R7lwnvGDNOGNwO1k&_nc_ohc=2wzharzLKg4Q7kNvgFamXK9&_nc_zt=23&_nc_ht=scontent-cgk1-1.xx&_nc_gid=AKqDN2l00xBM3GgKuY2khqT&oh=00_AYBERNuB7s_KByu_XfUie2HrytIkJddGmLRCLAOxL7YQmg&oe=67261F58',
   ),
   const User(
     name: 'Jane Doe',
@@ -18,9 +18,9 @@ final List<User> onlineUsers = [
         'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   ),
   const User(
-    name: 'Matthew Hinkle',
+    name: 'Mahir Arriyadl',
     imageUrl:
-        'https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1331&q=80',
+        'https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/452846974_429129826753391_2711947130980063802_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEWt4N3m6xHEuXndPmBHpJNy7aJoOWAhK3Ltomg5YCErcOqtDBSL_AVfdrCsMFYZtvKX06beIaCT24zHVcIjgGg&_nc_ohc=bc1SqBNtgi8Q7kNvgEFNfaW&_nc_zt=23&_nc_ht=scontent-cgk1-2.xx&_nc_gid=A_gOSpY7_RQKPAoHKa3ZISs&oh=00_AYDPFvtY3aF3tSLDOHbXwx2AlG_QTScDIWqxSoVdLxG_xg&oe=67263AA8',
   ),
   const User(
     name: 'Amy Smith',
@@ -28,14 +28,14 @@ final List<User> onlineUsers = [
         'https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80',
   ),
   const User(
-    name: 'Ed Morris',
+    name: 'mahir arriyadl',
     imageUrl:
-        'https://images.unsplash.com/photo-1521119989659-a83eee488004?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=664&q=80',
+        'https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/452846974_429129826753391_2711947130980063802_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEWt4N3m6xHEuXndPmBHpJNy7aJoOWAhK3Ltomg5YCErcOqtDBSL_AVfdrCsMFYZtvKX06beIaCT24zHVcIjgGg&_nc_ohc=bc1SqBNtgi8Q7kNvgEFNfaW&_nc_zt=23&_nc_ht=scontent-cgk1-2.xx&_nc_gid=A_gOSpY7_RQKPAoHKa3ZISs&oh=00_AYDPFvtY3aF3tSLDOHbXwx2AlG_QTScDIWqxSoVdLxG_xg&oe=67263AA8',
   ),
   const User(
-    name: 'Carolyn Duncan',
+    name: 'Mahir Arriyadl',
     imageUrl:
-        'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+        'https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/452846974_429129826753391_2711947130980063802_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEWt4N3m6xHEuXndPmBHpJNy7aJoOWAhK3Ltomg5YCErcOqtDBSL_AVfdrCsMFYZtvKX06beIaCT24zHVcIjgGg&_nc_ohc=bc1SqBNtgi8Q7kNvgEFNfaW&_nc_zt=23&_nc_ht=scontent-cgk1-2.xx&_nc_gid=A_gOSpY7_RQKPAoHKa3ZISs&oh=00_AYDPFvtY3aF3tSLDOHbXwx2AlG_QTScDIWqxSoVdLxG_xg&oe=67263AA8',
   ),
   const User(
     name: 'Paul Pinnock',
@@ -77,14 +77,14 @@ final List<User> onlineUsers = [
         'https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80',
   ),
   const User(
-    name: 'Ed Morris',
+    name: 'mahir arriyadl',
     imageUrl:
-        'https://images.unsplash.com/photo-1521119989659-a83eee488004?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=664&q=80',
+        'https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/452846974_429129826753391_2711947130980063802_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEWt4N3m6xHEuXndPmBHpJNy7aJoOWAhK3Ltomg5YCErcOqtDBSL_AVfdrCsMFYZtvKX06beIaCT24zHVcIjgGg&_nc_ohc=bc1SqBNtgi8Q7kNvgEFNfaW&_nc_zt=23&_nc_ht=scontent-cgk1-2.xx&_nc_gid=A_gOSpY7_RQKPAoHKa3ZISs&oh=00_AYDPFvtY3aF3tSLDOHbXwx2AlG_QTScDIWqxSoVdLxG_xg&oe=67263AA8',
   ),
   const User(
-    name: 'Carolyn Duncan',
+    name: 'Mahir Arriyadl',
     imageUrl:
-        'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+        'https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/452846974_429129826753391_2711947130980063802_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEWt4N3m6xHEuXndPmBHpJNy7aJoOWAhK3Ltomg5YCErcOqtDBSL_AVfdrCsMFYZtvKX06beIaCT24zHVcIjgGg&_nc_ohc=bc1SqBNtgi8Q7kNvgEFNfaW&_nc_zt=23&_nc_ht=scontent-cgk1-2.xx&_nc_gid=A_gOSpY7_RQKPAoHKa3ZISs&oh=00_AYDPFvtY3aF3tSLDOHbXwx2AlG_QTScDIWqxSoVdLxG_xg&oe=67263AA8',
   ),
   const User(
     name: 'Paul Pinnock',
@@ -111,7 +111,7 @@ final List<Story> stories = [
   Story(
     user: onlineUsers[2],
     imageUrl:
-        'https://images.unsplash.com/photo-1498307833015-e7b400441eb8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80',
+        'https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/452846974_429129826753391_2711947130980063802_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEWt4N3m6xHEuXndPmBHpJNy7aJoOWAhK3Ltomg5YCErcOqtDBSL_AVfdrCsMFYZtvKX06beIaCT24zHVcIjgGg&_nc_ohc=bc1SqBNtgi8Q7kNvgEFNfaW&_nc_zt=23&_nc_ht=scontent-cgk1-2.xx&_nc_gid=A_gOSpY7_RQKPAoHKa3ZISs&oh=00_AYDPFvtY3aF3tSLDOHbXwx2AlG_QTScDIWqxSoVdLxG_xg&oe=67263AA8',
   ),
   Story(
     user: onlineUsers[6],
@@ -167,9 +167,9 @@ final List<Story> stories = [
 final List<Post> posts = [
   const Post(
     user: currentUser,
-    caption: 'Check out these cool puppers',
+    caption: 'Penekan, semoga awet — di rumah di Karangrejo, Jawa Tengah, Indonesia. ',
     timeAgo: '58m',
-    imageUrl: 'https://images.unsplash.com/photo-1525253086316-d0c936c814f8',
+    imageUrl: 'https://scontent-cgk2-1.xx.fbcdn.net/v/t39.30808-6/240602928_4358064867635750_7644788742585183396_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeF7KYoXxCqrBLQY6KvkB44gFP9cMaY6cLQU_1wxpjpwtEc5wAQyUr9WvhVhOCUk3IfGXcG4cUvaaxP3lLL_T1xr&_nc_ohc=AvswsCIcCOAQ7kNvgF4L02D&_nc_zt=23&_nc_ht=scontent-cgk2-1.xx&_nc_gid=AGIcxnnPG71NLCJyLq49vgf&oh=00_AYBh5sFGjUCuMFMPpSOX32VBdD6pKzdvtv953Eg-LFvHBQ&oe=67263550',
     likes: 1202,
     comments: 184,
     shares: 96,
@@ -186,10 +186,10 @@ final List<Post> posts = [
   ),
   Post(
     user: onlineUsers[4],
-    caption: 'This is a very good boi.',
+    caption: 'Kunjungi blogspot Saya mhrarrydl.blogspot.com',
     timeAgo: '8hr',
     imageUrl:
-        'https://images.unsplash.com/photo-1575535468632-345892291673?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+        'https://scontent-cgk1-1.xx.fbcdn.net/v/t39.30808-6/452901536_427582460241461_8645050212630329274_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHhk27yRFEjMXyRuqhIBSjS5xVJxDQutujnFUnENC626ECDS0F4igTgrg1lpDssDLoW0O94R7lwnvGDNOGNwO1k&_nc_ohc=2wzharzLKg4Q7kNvgFamXK9&_nc_zt=23&_nc_ht=scontent-cgk1-1.xx&_nc_gid=AMdFoUqGOpIqWmJ8YieZT9n&oh=00_AYDEGDQz9844U-_7QdrR_tZ_GWjA_N-ICn7YQ4lL4xY-4w&oe=67261F58',
     likes: 894,
     comments: 201,
     shares: 27,

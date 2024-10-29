@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:uts_project/config/palette.dart';
-import 'package:uts_project/screen/screens.dart';
+import 'package:uts_project/screen/login_screen.dart'; // Pastikan ini sesuai dengan struktur direktori Anda
+import 'package:uts_project/screen/screens.dart'; // Jika ada file lain yang diperlukan
 
 void main() {
   runApp(const MyApp());
@@ -24,7 +25,8 @@ class _MyAppState extends State<MyApp> {
         visualDensity: VisualDensity.adaptivePlatformDensity,
         scaffoldBackgroundColor: Palette.scaffold,
       ),
-      home: const NavScreen(),
+      // Ubah di sini untuk mengarahkan ke LoginScreen
+      home: LoginScreen(), // Ganti ini
     );
   }
 }
