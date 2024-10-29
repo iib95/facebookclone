@@ -1,6 +1,6 @@
 # uts_project
 
-Ini adalah project UTS Aplikasi Bergerak semester 8.  
+Ini adalah project UTS Pemograman Mobile semester 7.  
 
 Project ini berupa klon user interface dari halaman home Facebook  
 
