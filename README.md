@@ -1,4 +1,4 @@
-# uts_project
+# uts dan uas project
 
 Ini adalah project UTS Pemograman Mobile semester 7. 
 
